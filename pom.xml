@@ -9,7 +9,13 @@
       <groupId>com.sparkjava</groupId>
       <artifactId>spark-core</artifactId>
       <version>2.2</version>
-    </dependency>
+    </dependency>   
+<!--    <dependency>
+        <groupId>javax.servlet</groupId>
+        <artifactId>servlet-api</artifactId>
+        <version>2.4</version>
+        <scope>provided</scope>
+    </dependency>-->
     <dependency>
       <groupId>com.sparkjava</groupId>
       <artifactId>spark-template-freemarker</artifactId>
@@ -65,7 +71,7 @@
             </goals>
           </execution>
         </executions>
-      </plugin>
+      </plugin>     
     </plugins>
   </build>
 </project>

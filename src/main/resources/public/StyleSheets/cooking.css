@@ -7,36 +7,36 @@
 	overflow: hidden;
 }
 
-ul{
+.cooking ul{
 	list-style: none;
 }
 
-ul li{
+ .cooking ul li{
 	float: left;
 	width: 400px;
 }
 
-ul li a{
+.cooking ul li a{
 	display: block;
 	float: left;
 	text-decoration: none;
 }
-ul li div{
+.cooking ul li div{
 	overflow: hidden;
 }
 .htitle{
 	display: block;
 }
-img{
+.cooking img{
 	padding: 0px 0px;
 	margin: 0px 0px;
 }
-ul li strong{
+.cooking ul li strong{
 
 	overflow: hidden;
 	
 }
-strong a{
+.cooking strong a{
 	padding-right:  100px;
 	padding-bottom:20px ;
 }
