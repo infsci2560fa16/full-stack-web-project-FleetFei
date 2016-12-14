@@ -1,1 +1,1 @@
-web:  node index.js
+web:    java -cp target/classes:target/dependency/* Main
