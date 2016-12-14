@@ -33,7 +33,7 @@ $(document).ready(function() {
 			htmlString +=
 				'<tr>' +
 				'<td class = "checkbox_cartable"><input class="check-one check" type="checkbox" /></td>' +
-				'<td class="goods"><img src="" alt="" /><span>' + title.text() + '</span></td>' +
+				'<td class="goods"><span>' + title.text() + '</span></td>' +
 				'<td class="price">'+price.text() +'</td>' +
 				'<td class="count">' +
 				'<span class="reduce"></span>' +
